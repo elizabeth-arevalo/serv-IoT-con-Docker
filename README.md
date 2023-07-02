@@ -132,4 +132,8 @@ A continuación puedes ver una captura de como se ve cuando los contenedores fun
 
 ![](https://github.com/elizabeth-arevalo/serv-IoT-con-Docker/blob/main/img/img02.png)
 
+# Créditos
+
+Desarrollado por Hugo Escalpelo
+- [hugoescalpelo.com](https://hugoescalpelo.com/)
 
