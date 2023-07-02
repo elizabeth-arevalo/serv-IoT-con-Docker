@@ -128,8 +128,8 @@ Para comprobar el funcionamiento del Broker Mosqutto, solo envía un mensaje MQT
 ## Resultado
 
 A continuación puedes ver una captura de como se ve cuando los contenedores funcionan.
-![](https://github.com/elizabeth-arevalo/serv-IoT-con-docker-compose/blob/main/img/img01.png)
+![](https://github.com/elizabeth-arevalo/serv-IoT-con-Docker/blob/main/img/img01.png)
 
-![](https://github.com/elizabeth-arevalo/serv-IoT-con-docker-compose/blob/main/img/img02.png)
+![](https://github.com/elizabeth-arevalo/serv-IoT-con-Docker/blob/main/img/img02.png)
 
 
